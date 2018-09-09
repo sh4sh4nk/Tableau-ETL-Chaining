@@ -11,3 +11,5 @@ Mailer.ps1 >> Make changes for the mail to be triggered in case of failure.
 logger.bat >> This calls the ETLChaining.bat file and generates the log
 
 
+![](Overview.jpeg)
+
